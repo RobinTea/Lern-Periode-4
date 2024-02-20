@@ -7,8 +7,14 @@ Robin Taing
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+
+   2*4.0, 1* 6.0
+2. Was hatten Sie sich am Ende von LP3 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 3. **Neu**: Was möchten Sie Neues lernen?
+
+    linux
+
+
 4. Was wäre ein geeignetes Projekt für diese LP4?
 
 ## 20.2.2024
