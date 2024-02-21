@@ -5,27 +5,13 @@ Robin Taing
 20.2 bis 2.4.2024
 
 ## Grob-Planung
-
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-
-   2*4.0, 1* 6.0
-2. Was hatten Sie sich am Ende von LP3 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. **Neu**: Was möchten Sie Neues lernen?
-
-    linux
-
-
-4. Was wäre ein geeignetes Projekt für diese LP4?
-
-## 20.2.2024
-
-✍️ Heute habe ich... (50-100 Wörter)
+Uns wurde in der letzten Lernperiode mitgeteilt, dass wir eine Webseite auf Github erstellen kann. In dieser Lernperiode habe ich vor mich mit html und css auseinander zu setzen. Ich möchte Experimentieren und mich für das nächste Jahr vorbereiten.
 
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] html Text
+- [ ] den Text farbig machen
+- [ ] den Text auf der Webseite veröffentlichen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -33,7 +19,10 @@ Robin Taing
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-✍️ Heute habe ich... (50-100 Wörter)
+
+
+
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
