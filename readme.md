@@ -1,35 +1,28 @@
-# Lern-Periode 4
+# Lernperiode 4
 
 Robin Taing
 
 20.2 - 2.4.2024
 
-## Grob-Planung
-Uns wurde in der letzten Lernperiode mitgeteilt, dass wir eine Webseite auf Github erstellen kann. In dieser Lernperiode habe ich vor mich mit html und css auseinander zu setzen. Ich möchte Tabellen, Knöpfe und ein Menü erstellen. Wenn dies erflogreich (oder nicht) verfolgte, werde ich versuchen Bilder hinzu zu fügen.
+## Grobplanung
+Uns wurde in der letzten Lernperiode mitgeteilt, dass wir eine Webseite auf GitHub erstellen können. In dieser Lernperiode plane ich, mich mit HTML und CSS zu beschäftigen. Mein Ziel ist es, Tabellen, Knöpfe und ein Menü zu erstellen. Abhängig davon, ob dies erfolgreich ist oder nicht, werde ich versuchen, Bilder hinzuzufügen.
 
-Mein Ziel ist es zu Experimentieren und mich für das nächste Jahr vorbereiten.
+Mein Hauptziel ist es, zu experimentieren und mich auf das nächste Jahr vorzubereiten.
 
 ## 27.2.2024
 
-- [ ] html Text
-- [ ] den Text farbig machen
-- [ ] den Text auf der Webseite veröffentlichen
+- [ ] HTML-Text
+- [ ] Den Text farbig gestalten
+- [ ] Den Text auf der Webseite veröffentlichen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
+|-----------------|----------------------|----------------|----------------|----------|
 | 1               |                      |                |                |          |
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-
-
-
-
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
-
-
+☝️ Vergessen Sie nicht, Ihren ersten Code auf GitHub hochzuladen und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Testfälle erfüllt.
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Formulieren Sie Ihre Zusammenfassungen in Bezug auf Ihren persönlichen Lernfortschritt zu einem kohärenten Text von 100 bis 200 Wörtern (mit Wortzählung in Klammern).
