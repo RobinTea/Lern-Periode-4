@@ -11,7 +11,9 @@ Mein Ziel ist es zu Experimentieren und mich für das nächste Jahr vorbereiten.
 
 ## 27.2.2024
 
-07:30 Ich komme in den Unterricht  
+Herr Colic sagte dass meine Planung immer noch unklar sei, hier ist ein detaillierter Zeitplan:
+
+07:30 Ich komme in den Unterricht und setze mich hin.   
 07:45 Der Input von Herr Colic ist fertig und ich fange an, die Webseite auf Github aufzusetzen  
 08:00 Dank Tutorial im Internet (notfalls meine Kollegen) konnte ich die Webseite aufsetzen und fange an ein Texteditor zu installieren  
 08:15 Ich habe mich für Visual Studio Code entschieden, und werde nun die erweiterung "im Browser öffnen" installieren  
