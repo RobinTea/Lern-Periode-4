@@ -17,9 +17,12 @@ Mein Ziel ist es zu Experimentieren und mich für das nächste Jahr vorbereiten.
 08:15 Ich habe mich für Visual Studio Code entschieden, und werde nun die erweiterung "im Browser öffnen" installieren  
 08:30 Ich fange an die ersten Zeilen in html zu schreiben.  
 09:30 Pause  
-09:45 Ich versuche mit css  
+09:45 Ich versuche mit css den Text farbig zu machen
+10:00 falls ich keine verspätung (fehler) habe und keine Bugs aufgetreten sind werde ich daran arbeiten, Buttons oder Bilder hinzuzufügen  
+11:00 Ich arbeite an meiner Dokumentation  
 
-- [ ] html Text
+
+- [ ] html Text3
 - [ ] den Text farbig machen
 - [ ] den Text auf der Webseite veröffentlichen
 
