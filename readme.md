@@ -11,7 +11,7 @@ Mein Ziel ist es zu Experimentieren und mich für das nächste Jahr vorbereiten.
 
 ## 27.2.2024
 
-Herr Colic sagte dass meine Planung immer noch unklar sei, hier ist ein detaillierter Zeitplan:
+Herr Colic sagte dass meine Planung immer noch ungenügend sei, hier ist ein detaillierter Zeitplan:
 
 07:30 Ich komme in den Unterricht und setze mich hin.   
 07:45 Der Input von Herr Colic ist fertig und ich fange an, die Webseite auf Github aufzusetzen  
