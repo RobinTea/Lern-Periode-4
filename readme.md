@@ -26,11 +26,12 @@ Herr Colic sagte dass meine Planung immer noch unklar sei, hier ist ein detailli
 
 - [ ] html Text3
 - [ ] den Text farbig machen
+- [ ] Bild einfügen
 - [ ] den Text auf der Webseite veröffentlichen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
+| 1               |  funktioniert                    |   funktioniert             |     gut           |  ?        |
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 
