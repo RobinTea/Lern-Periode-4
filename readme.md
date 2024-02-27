@@ -28,7 +28,7 @@ https://www.w3schools.com/html/default.asp
 https://www.youtube.com/watch?v=Z4pCqK-V_Wo
 
 - [x] html Text
-- [ ] den Text farbig machen
+- [x] den Text farbig machen
 - [x] Bild einfügen
 - [ ] den Text auf der Webseite veröffentlichen
 
