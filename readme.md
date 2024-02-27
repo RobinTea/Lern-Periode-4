@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=Z4pCqK-V_Wo
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |  funktioniert                    |   funktioniert             |     gut           |  ?        |
+| 1               |  funktioniert                    |   funktioniert             |     gut           |  👍        |
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 
