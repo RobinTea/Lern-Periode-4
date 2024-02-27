@@ -9,7 +9,7 @@ Uns wurde in der letzten Lernperiode mitgeteilt, dass wir eine Webseite auf Gith
 
 Mein Ziel ist es zu Experimentieren und mich für das nächste Jahr vorbereiten.
 
-## 27.2.2024
+## 27.02.2024
 
 (code in file with date)
 
@@ -34,11 +34,15 @@ https://www.youtube.com/watch?v=Z4pCqK-V_Wo
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |  funktioniert                    |   funktioniert             |     gut           |  👍        |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               |  funktioniert        |   funktioniert |     gut        |  👍      |
+| 2               | Programm in Browser geöffnet          | Text Rot       |Robin ist happy             |    yes      |
 
+## 05.03.2024
 
+- [ ] svg tutorial https://www.youtube.com/watch?v=VeTwNnZUPlw
+- [ ] Menu (wenn es geht)
+- [ ] content, paddle, border, margin (vertraut machen min2 "Boxen" erstellen)
+- [ ] Paging und Struktur von Github anschauen
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
