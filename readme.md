@@ -23,7 +23,7 @@ Mein Ziel ist es zu Experimentieren und mich für das nächste Jahr vorbereiten.
 10:00 falls ich keine verspätung (fehler) habe und keine Bugs aufgetreten sind werde ich daran arbeiten, Buttons oder Bilder hinzuzufügen  
 11:00 Ich arbeite an meiner Dokumentation  
 
-used in this session:
+used in this session:  
 https://www.w3schools.com/html/default.asp  
 https://www.youtube.com/watch?v=Z4pCqK-V_Wo
 
