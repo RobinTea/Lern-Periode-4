@@ -1,4 +1,4 @@
-# Lern-Periode 4
+# Lernperiode 4
 
 Robin Taing
 
