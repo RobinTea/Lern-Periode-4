@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=Z4pCqK-V_Wo
 
 - [ ] svg tutorial https://www.youtube.com/watch?v=VeTwNnZUPlw
 - [ ] Menu (wenn es geht) https://www.youtube.com/watch?v=NQSeLm7MqtA / https://www.youtube.com/watch?v=2DVkNvVcQAU
-- [ ] content, paddle, border, margin (vertraut machen min2 "Boxen" erstellen)
+- [ ] content, paddle, border, margin vertraut machen (min2 "Boxen" erstellen)
 - [ ] Paging und Struktur von Github anschauen
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
