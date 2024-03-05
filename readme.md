@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=Z4pCqK-V_Wo
 
 ## 05.03.2024
 
-- [x] svg tutorial https://www.w3schools.com/graphics/svg_animation.asp
+- [x] svg tutorial https://www.w3schools.com/graphics/svg_animation.asp / https://www.youtube.com/watch?v=UgIwjLg4ONk
 - [ ] Menu (wenn es geht) https://www.youtube.com/watch?v=NQSeLm7MqtA / https://www.youtube.com/watch?v=2DVkNvVcQAU
 - [ ] content, paddle, border, margin vertraut machen (min2 "Boxen" erstellen)
 - [ ] Paging und Struktur von Github anschauen https://docs.github.com/de/pages
