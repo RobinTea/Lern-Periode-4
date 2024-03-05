@@ -39,10 +39,12 @@ https://www.youtube.com/watch?v=Z4pCqK-V_Wo
 
 ## 05.03.2024
 
-- [ ] svg tutorial https://www.w3schools.com/graphics/svg_animation.asp
+- [x] svg tutorial https://www.w3schools.com/graphics/svg_animation.asp
 - [ ] Menu (wenn es geht) https://www.youtube.com/watch?v=NQSeLm7MqtA / https://www.youtube.com/watch?v=2DVkNvVcQAU
 - [ ] content, paddle, border, margin vertraut machen (min2 "Boxen" erstellen)
 - [ ] Paging und Struktur von Github anschauen https://docs.github.com/de/pages
+
+Für das erste Arbeitspaket habe ich einen Roten Kreis mit svg gemacht und versucht ihn hin und her zu bewegen. Am Anfang dachte ich es bräuchte zwei <animate/> blöcke dafür. Später fand ich heraus das es mit nur einem einzigen funktionniert.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
