@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=Z4pCqK-V_Wo
 - [ ] Paging und Struktur von Github anschauen https://docs.github.com/de/pages
 
 Für das erste Arbeitspaket habe ich einen Roten Kreis mit svg gemacht und versucht ihn hin und her zu bewegen. Am Anfang dachte ich es bräuchte zwei <animate/> blöcke dafür. Später fand ich heraus das es mit nur einem einzigen funktionniert.
-Ich war dann daran interessiert wie der Code funktioniert. Da im w3 Tutorial dies nicht sher ausführlich erklährt war, musste ich mich an Ai wenden. Mithilfe der Ai konnte ich den Code verstehen. Ich hatte sehr viel spass daran den roten Kreis zu verändern und ihn zu "animieren". Weil die Zeit so schnell lief, war es nicht mehr möglich die anderen Arbeitspakete zu lösen.
+Ich war dann daran interessiert wie der Code funktioniert. Da im w3 Tutorial dies nicht sher ausführlich erklährt war, musste ich mich an Ai wenden. Mithilfe der Ai konnte ich den Code verstehen. Ich hatte sehr viel spass daran den roten Kreis zu verändern und ihn zu "animieren". Weil die Zeit so schnell lief, war es nicht mehr möglich die anderen Arbeitspakete zu lösen. Jedoch habe ich in dieser Periode sehr viel gelernt.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
