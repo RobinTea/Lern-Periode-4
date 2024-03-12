@@ -49,7 +49,7 @@ Ich war dann daran interessiert wie der Code funktioniert. Da im w3 Tutorial die
 
 ## 12.02.24
 
-- [x] Schlangen arties Ding erstellen
+- [x] Schlangen arties Ding erstellen 
 - [x] TV Text der an den Wänden abprallt
 - [ ] herausfinden was Copilot gemacht hat
 
