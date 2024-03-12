@@ -57,7 +57,7 @@ Drei Kreise wurden nahe aneinander gesezt und bewegen sich versetzt nach Links u
 
 für das nächste mal: https://www.w3schools.com/graphics/svg_scripting.asp
 
-Es ist das erste Mal, dass js vorgekommen ist. Ich werde versuchen mehr damit zu arbeiten.
+Es ist das erste Mal, dass ich js benutzt habe. Ich werde versuchen mehr damit zu arbeiten.
 
 ## 19.03.2024
 
