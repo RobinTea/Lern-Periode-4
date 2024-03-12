@@ -15,27 +15,104 @@
         <br>
         <br>
         <img src="RobinsRealTea.jpg" alt="Robin's Tea" width="200" height="200">
-        <p>das ist nur dazu da um ein paar Dinge auszuprobieren. thy shy mine</p>
+        <p>das ist nur dazu da um ein paar Dinge auszuprobieren.</p>
         <h2>ich weiss ja mein etwas in den Tag weil ich nur weiss mein klein fein sein.</h2>
-        <svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="50" cy="50" r="50" style="fill:red;">
-              <animate
-                attributeName="cx"
-                begin="0s"
-                dur="5s"
-                from="50"
-                to="50%"
-                repeatCount=1 
-                fill="freeze" />
 
-              <animate 
-                attributeName="cx"
-                begin="5s"
-                dur="5s"
-                to="0%"
-                fill="freeze"/>
+        <svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="50" cy="70" r="50" style="fill:rgba(0, 149, 255, 0.8);">
+                <animate
+                    attributeName="cx"
+                    begin="0s"
+                    dur="5s"
+                    values="50;50%;50"
+                    keyTimes="0;0.5;1"
+                    repeatCount="indefinite"
+                    fill="freeze" />
             </circle>
         </svg>
+        <svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="50" cy="30" r="50" style="fill:rgba(51, 242, 64, 0.605);">
+                <animate
+                    attributeName="cx"
+                    begin="0.1s"
+                    dur="5s"
+                    values="50;50%;50"
+                    keyTimes="0;0.5;1"
+                    repeatCount="indefinite"
+                    fill="freeze" />
+            </circle>
+        </svg>
+
+        <svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="50" cy="30" r="50" style="fill:rgba(0, 149, 255, 0.8);">
+                <animate
+                    attributeName="cx"
+                    begin="0.2s"
+                    dur="5s"
+                    values="50;50%;50"
+                    keyTimes="0;0.5;1"
+                    repeatCount="indefinite"
+                    fill="freeze" />
+            </circle>
+        </svg>
+
+        <svg width="100%" height="150">
+            <rect x="45" y="18" width="400" height="45" style="stroke:green;fill:none;">
+              <animateMotion
+                path="M0,0 q60,100 100,0 q60,-20 100,0"
+                begin="0s"
+                dur="10s"
+                repeatCount="indefinite" />
+            </rect>
+            <text x="50" y="50" style="font-family:Verdana;font-size:32">imagine hitting the edge
+              <animateMotion
+                path="M0,0 q60,100 100,0 q60,-20 100,0"
+                begin="0s"
+                dur="10s"
+                repeatCount="indefinite" />
+          </text>
+          </svg>
+
+        
+    <div id="animatedBox" style="background:green; width:100px; height:180px; position:absolute;">
+        CHAOS
+        <br>
+        made by Rob
+        <br>
+        <br>
+        you wont see me touch an edge again, unless you reload (probably)
+    </div>
+    
+    <script>
+    var box = document.getElementById("animatedBox");
+    var angle = 45;
+    var speed = 1;
+    var x = 0;
+    var y = 0;
+    
+    function animateBox() {
+        var width = window.innerWidth - box.offsetWidth;
+        var height = window.innerHeight - box.offsetHeight;
+    
+        x += Math.cos(angle * Math.PI / 180) * speed;
+        y += Math.sin(angle * Math.PI / 180) * speed;
+    
+        if (x < 0 || x > width) {
+            angle = 180 - angle;
+        }
+        if (y < 0 || y > height) {
+            angle = 360 - angle;
+        }
+    
+        box.style.left = x + "px";
+        box.style.top = y + "px";
+    
+        requestAnimationFrame(animateBox);
+    }
+    
+    animateBox();
+    </script>
+    
 
     </body>
 
