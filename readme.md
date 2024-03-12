@@ -49,9 +49,13 @@ Ich war dann daran interessiert wie der Code funktioniert. Da im w3 Tutorial die
 
 ## 12.02.24
 
-- [ ] Schlangen arties Ding erstellen
-- [ ] TV Text der an den Wänden abprallt
+- [x] Schlangen arties Ding erstellen
+- [x] TV Text der an den Wänden abprallt
 - [ ] herausfinden was Copilot gemacht hat
+
+Drei Kreise wurden nahe aneinander gesezt und bewegen sich versetzt nach Links und Rechts. Ich verstehe immer noch nicht wieso es diesen abstand zwischen den Kreisen gibt. Ich wollte jedoch nicht nur bewegende Kreise haben. Ich wollte einen Text der von den Wänden abprallt und immer weiter geht. Er soll diagonal gehen um es spannender zu machen. Es gab keine genaue Anleitungen und nach langem versuchen habe Copilot (KI von Microsoft) gefragt. Er gab mir einen funktionierenden Code. Ich verstehe den Mathe Teil noch nicht ganz aber das entziffern kommt gut voran. 
+
+Es ist das erste Mal, dass js vorgekommen ist. Ich werde versuchen mehr damit zu arbeiten.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
