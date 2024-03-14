@@ -61,7 +61,9 @@ Es ist das erste Mal, dass ich js benutzt habe. Ich werde versuchen mehr damit z
 
 ## 19.03.2024
 
-- [ ]
+- [ ] Button
+- [ ] https://www.w3schools.com/graphics/svg_scripting.asp
+- [ ] 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
