@@ -67,11 +67,18 @@ Es ist das erste Mal, dass ich js benutzt habe. Ich werde versuchen mehr damit z
 
 ![image](https://github.com/RobinTea/Lern-Periode-4/assets/142886484/a4aaf88d-49dd-403f-a609-6d5ad1f7ed34)
 
+Bankdaten müssen angegeben werden. Habe ich nicht gemacht
 
 ![image](https://github.com/RobinTea/Lern-Periode-4/assets/142886484/e1bc16f1-42bb-422c-accb-811d33d9e6ec)
 
+Ein Button wurde erstellt. Wenn man mit dem Cursor darüber geht verändert sich der Button.
 
 Liste von Links im Ordner 19.03.24
+
+## 26.03.24
+
+- [ ] Menu erstellen (mit css auskommen, wird lange dauern)
+
 
 
 
