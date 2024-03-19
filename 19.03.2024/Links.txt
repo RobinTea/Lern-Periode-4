@@ -1,0 +1,13 @@
+https://developers.google.com/maps/documentation/geocoding?hl=de
+
+https://maps.googleapis.com/maps/api/js
+
+https://www.youtube.com/watch?v=OGTG1l7yin4
+
+https://console.cloud.google.com/welcome/new
+
+https://developers.google.com/maps/documentation/geocoding/overview?hl=de
+
+https://www.bing.com/maps?mepi=34%7ERestaurant%7EPole%7ELargeMapLink&ty=17&q=restaurant&ss=filter.entitylisttype%3A%22Restaurant%22&segment=Restaurant&mb=47.484093%7E8.302926%7E47.470623%7E8.313306&ppois=47.484092712402344_8.311429023742676__YN9003x8557415962181601555%7E47.48040771484375_8.313305854797363__YN9003x15935975221280978341%7E47.4779167175293_8.306253433227539__YN9003x3479764%7E47.474369049072266_8.307730674743652__YN9003x3881084%7E47.476043701171875_8.305349349975586__YN9003x1308856891211103021%7E47.47613525390625_8.306727409362793__YN9003x11153134318540317106%7E&v=2&sV=1&FORM=MPSRPL&cp=47.475036%7E8.310801&lvl=15.1
+
+https://home.unicode.org/
