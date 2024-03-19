@@ -61,9 +61,9 @@ Es ist das erste Mal, dass ich js benutzt habe. Ich werde versuchen mehr damit z
 
 ## 19.03.2024
 
-- [ ] Button
+- [x] Buttons und ihre Funktionen
 - [ ] https://www.w3schools.com/graphics/svg_scripting.asp
-- [ ] google maps
+- [x] Google maps
 
 
 https://developers.google.com/maps/documentation/geocoding?hl=de
