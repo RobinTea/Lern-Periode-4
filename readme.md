@@ -65,6 +65,11 @@ Es ist das erste Mal, dass ich js benutzt habe. Ich werde versuchen mehr damit z
 - [ ] https://www.w3schools.com/graphics/svg_scripting.asp
 - [ ] 
 
+
+https://developers.google.com/maps/documentation/geocoding?hl=de
+
+https://maps.googleapis.com/maps/api/js
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## Reflexion
