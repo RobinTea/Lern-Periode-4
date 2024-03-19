@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html style="background-color:tan">
+
+    <link rel="stylesheet" href="style.css">
+    
+    <head>
+
+        <h1 style="font-family:Courier New">welcome</h1>
+        <p title="besonderer Text" style="font-family:verdana">this is a text </p>
+
+    </head>
+    <body>
+        
+        <a href="RobinsRealTea.jpg">this is a link</a>
+        <br>
+        <br>
+        <img src="RobinsRealTea.jpg" alt="Robin's Tea" width="200" height="200">
+        <p>das ist nur dazu da um ein paar Dinge auszuprobieren.</p>
+        <h2>ich weiss ja mein etwas in den Tag weil ich nur weiss mein klein fein sein.</h2>
+
+        <svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="50" cy="70" r="50" style="fill:rgba(0, 149, 255, 0.8);">
+                <animate
+                    attributeName="cx"
+                    begin="0s"
+                    dur="5s"
+                    values="50;50%;50"
+                    keyTimes="0;0.5;1"
+                    repeatCount="indefinite"
+                    fill="freeze" />
+            </circle>
+        </svg>
+        <svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="50" cy="30" r="50" style="fill:rgba(51, 242, 64, 0.605);">
+                <animate
+                    attributeName="cx"
+                    begin="0.1s"
+                    dur="5s"
+                    values="50;50%;50"
+                    keyTimes="0;0.5;1"
+                    repeatCount="indefinite"
+                    fill="freeze" />
+            </circle>
+        </svg>
+
+        <svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="50" cy="30" r="50" style="fill:rgba(0, 149, 255, 0.8);">
+                <animate
+                    attributeName="cx"
+                    begin="0.2s"
+                    dur="5s"
+                    values="50;50%;50"
+                    keyTimes="0;0.5;1"
+                    repeatCount="indefinite"
+                    fill="freeze" />
+            </circle>
+        </svg>
+
+        <svg width="100%" height="150">
+            <rect x="45" y="18" width="400" height="45" style="stroke:green;fill:none;">
+              <animateMotion
+                path="M0,0 q60,100 100,0 q60,-20 100,0"
+                begin="0s"
+                dur="10s"
+                repeatCount="indefinite" />
+            </rect>
+            <text x="50" y="50" style="font-family:Verdana;font-size:32">imagine hitting the edge
+              <animateMotion
+                path="M0,0 q60,100 100,0 q60,-20 100,0"
+                begin="0s"
+                dur="10s"
+                repeatCount="indefinite" />
+          </text>
+          </svg>
+
+        
+    <div id="animatedBox" style="background:green; width:100px; height:180px; position:absolute;">
+        CHAOS
+        <br>
+        made by Rob
+        <br>
+        <br>
+        you wont see me touch an edge again, unless you reload (probably)
+    </div>
+    
+    <script>
+    var box = document.getElementById("animatedBox");
+    var angle = 45;
+    var speed = 1;
+    var x = 0;
+    var y = 0;
+    
+    function animateBox() {
+        var width = window.innerWidth - box.offsetWidth;
+        var height = window.innerHeight - box.offsetHeight;
+    
+        x += Math.cos(angle * Math.PI / 180) * speed;
+        y += Math.sin(angle * Math.PI / 180) * speed;
+    
+        if (x < 0 || x > width) {
+            angle = 180 - angle;
+        }
+        if (y < 0 || y > height) {
+            angle = 360 - angle;
+        }
+    
+        box.style.left = x + "px";
+        box.style.top = y + "px";
+    
+        requestAnimationFrame(animateBox);
+    }
+    
+    animateBox();
+    </script>
+    
+    <svg height="40" width="100%">
+        <text x="5" y="30" fill="none" stroke="red" font-size="35">trying more svg</text>
+      </svg>
+
+
+    </body>
+
+    <svg height="40" width="100%">
+        <text x="5" y="30" fill="pink" stroke="blue" font-size="35" rotate="-20">I dont own the google logo</text>
+      </svg>
+
+
+
+     <div>need more text right?</div>
+
+     <h1 style="font-family:Courier New">My First Google Map</h1>
+
+    <div id="googleMap" style="width:100%;height:400px;"></div>
+
+    <script>
+    function myMap() {
+        var mapProp= {
+  center:new google.maps.LatLng(51.508742,-0.120850),
+  zoom:5,
+};
+        var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+    }
+    </script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
+    //ich habe keinen key
+    <br>
+    <br>
+
+    <button id="myButton">Click me</button>
+
+    <script>
+        document.getElementById("myButton").addEventListener("click", function() {
+            alert(", dass du das Toll findest");
+        });
+    </script>
+
+
+
+<style>
+    .button {
+      display: inline-block;
+      border-radius: 8px;
+      background-color: darkseagreen;
+      border: none;
+      color: #FFFFFF;
+      text-align: center;
+      font-size: 28px;
+      padding: 25px;
+      width: 250px;
+      transition: all 0.5s;
+      cursor: pointer;
+      margin: 5px;
+    }
+    
+    .button span {
+      cursor: pointer;
+      display: inline-block;
+      position: relative;
+      transition: 0.5s;
+    }
+    
+    .button span:after {
+      content: '\00bb';
+      position: absolute;
+      opacity: 0;
+      top: 0;
+      right: -20px;
+      transition: 0.5s;
+    }
+    
+    .button:hover span {
+      padding-right: 25px;
+    }
+    
+    .button:hover span:after {
+      opacity: 1;
+      right: 0;
+    }
+    </style>
+
+
+
+    </head>
+    <body>
+    
+    <br>
+    <button class="button" style="vertical-align:middle" id="hoverk"><span>Hover</span></button>
+    
+    <script>
+        document.getElementById("hoverk").addEventListener("click", function() {
+            alert("Hooooooover");
+        });
+    </script>
+
+
+
+</html>
