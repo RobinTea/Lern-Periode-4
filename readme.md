@@ -77,10 +77,8 @@ Liste von Links im Ordner 19.03.24
 
 ## 26.03.24
 
-- [ ] Menu erstellen (mit css auskommen, wird lange dauern)
-
-
-
+- [ ] Menu erstellen (mit css auskommen, wird lange dauern
+- [ ] disply: felx; (benutzen/ Kennenlernen)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
