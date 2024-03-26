@@ -77,10 +77,10 @@ Liste von Links im Ordner 19.03.24
 
 ## 26.03.24
 
-- [ ] Leiste am oberen Rand erstellen (min. 2 Links oben)
-- [ ] disply: felx; (benutzen/ Kennenlernen)
-- [ ] hover effect verwenden
-- [ ] ein bild als "logo" hinzufügen
+- [x] Leiste am oberen Rand erstellen (min. 2 Links oben)
+- [x] disply: felx; (benutzen/ Kennenlernen)
+- [x] hover effect verwenden
+- [x] ein bild als "logo" hinzufügen
 
 https://fonts.google.com/specimen/Montserrat?query=mont
 
