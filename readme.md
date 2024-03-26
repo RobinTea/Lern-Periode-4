@@ -77,8 +77,12 @@ Liste von Links im Ordner 19.03.24
 
 ## 26.03.24
 
-- [ ] Menu erstellen (mit css auskommen, wird lange dauern
+- [ ] Leiste am oberen Rand erstellen (min. 2 Links oben)
 - [ ] disply: felx; (benutzen/ Kennenlernen)
+- [ ] hover effect verwenden
+- [ ] ein bild als "logo" hinzufügen
+
+https://fonts.google.com/specimen/Montserrat?query=mont
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
