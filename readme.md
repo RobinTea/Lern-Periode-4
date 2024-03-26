@@ -84,6 +84,9 @@ Liste von Links im Ordner 19.03.24
 
 https://fonts.google.com/specimen/Montserrat?query=mont
 
+Ich war sehr erfolgreich mit dem Tutorial und hatte genügend Zeit um viele verschiedene funktionen auszuprobieren. Ich habe es noch nicht geschafft etwas zu verlinken. Wenn man auf einer der Menuoptionen klickt passiert nur der Hover-Effekt. Und die Webseite ist noch leer.
+Das "Logo" das ich hinzugefügt habe sieht nicht gut aus, das möchte ich verändern.
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## Reflexion
