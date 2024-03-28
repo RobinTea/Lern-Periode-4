@@ -88,6 +88,13 @@ Ich war sehr erfolgreich mit dem Tutorial und hatte genügend Zeit um viele vers
 Wenn man auf einer der Menuoptionen klickt passiert nur der Hover-Effekt, und die Webseite ist noch leer.
 Das "Logo" das ich hinzugefügt habe sieht nicht gut aus, das möchte ich verändern.
 
+## 02.04.2024
+
+- [ ] Leiste oben mit Mitte abgrenzen
+- [ ] Leiste sichtbar machen (andere Farbe)
+- [ ] Drop-down für menu
+- [ ] hover Effekt auf die verschiedenen Optionen
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## Reflexion
