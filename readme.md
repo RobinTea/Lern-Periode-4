@@ -90,8 +90,8 @@ Das "Logo" das ich hinzugefügt habe sieht nicht gut aus, das möchte ich verän
 
 ## 02.04.2024
 
-- [ ] Leiste oben mit Mitte abgrenzen
-- [ ] Leiste sichtbar machen (andere Farbe)
+- [x] Leiste oben mit Mitte abgrenzen
+- [x] Leiste sichtbar machen (andere Farbe)
 - [ ] Drop-down für menu
 - [ ] hover Effekt auf die verschiedenen Optionen
 
