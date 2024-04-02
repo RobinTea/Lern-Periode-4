@@ -49,7 +49,7 @@ Ich war dann daran interessiert wie der Code funktioniert. Da im w3 Tutorial die
 
 ## 12.03.24
 
-- [x] Schlangen arties Ding erstellen 
+- [x] Schlangen artiges Ding erstellen 
 - [x] TV Text der an den Wänden abprallt
 - [ ] herausfinden was Copilot gemacht hat
 
@@ -95,8 +95,16 @@ Das "Logo" das ich hinzugefügt habe sieht nicht gut aus, das möchte ich verän
 - [ ] Drop-down für menu
 - [x] Curser zu pointer wechseln wenn ich über den contact button bin
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |  Webseite offen      | Maus hovert über Menu| liste von Links in Textform |  nein     |
+
+Das erstellen der Leiste hat mir viele Probleme bereitet. Wenn ich ein gewissen Teil der Webseite färben möchte müssen die anderen Elemente es erlauben (keine margin/padding haben). Das Problem wurde ganz einfach aufgehoben indem ich einfach den header eine Farbe zuwies. Beim Drop-down Menu war es jedoch eine Herausforderung diese Funktionen in mein bestehendes Programm zu implementieren. Deshalb werden sie das Programm von heute nur mit der Leiste auffinden. 
 
 ## Reflexion
+In dieser Lernperiode konnte ich verschiedenen Elementen einer Webseite Kennenlernen. Ich konnte in dieser Zeit vieles herum Experimentieren und ausprobieren ohne gross Zeit zu verschwenden, da dass ja mein Ziel war. Ich kann jetzt stolz sagen, dass ich ein bisschen mehr erfahrung mit html als meine Kollegen habe. Jedoch hatte ich noch nicht die Chance mit Java scipt arbeiten zu können (nur kurz und ein paar zeilen). 
+
+html? Check. css? naja, mehr oder weniger. java? nicht so sehr, nein.
+
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
