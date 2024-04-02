@@ -106,5 +106,5 @@ In dieser Lernperiode konnte ich verschiedenen Elementen einer Webseite Kennenle
 
 html? Check. css? naja, mehr oder weniger. java? nicht so sehr, nein.
 
-
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+## VBV
+Im vergleich zum letzten mal bin ich viel Produktiver gewesen. Es kann daran legen, dass es weniger Fehler gab. Jedoch sind meine Arbeitpakete nocht nicht gut definiert (zB. Schlangen artiges Ding) Ich werde sie in Zukunft verbessern müssen. Ich muss mehr mit Testfällen arbeiten und sie auch besser Formulieren. Es währe schön wenn ich in Zukunft auch mit Java script arbeiten könnte.
