@@ -93,7 +93,7 @@ Das "Logo" das ich hinzugefügt habe sieht nicht gut aus, das möchte ich verän
 - [x] Leiste oben mit Mitte abgrenzen
 - [x] Leiste sichtbar machen (andere Farbe)
 - [ ] Drop-down für menu
-- [ ] hover Effekt auf die verschiedenen Optionen
+- [x] Curser zu pointer wechseln wenn ich über den contact button bin
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
